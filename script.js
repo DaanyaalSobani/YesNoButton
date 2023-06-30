@@ -1,9 +1,12 @@
+var yesAudio = new Audio('Audio/yes.m4a');
+var noAudio = new Audio('Audio/no.m4a');
+
 function yesFunction() {
-    // Define your function here
+    yesAudio.play();
     console.log("Yes button pressed");
 }
 
 function noFunction() {
-    // Define your function here
+    noAudio.play();
     console.log("No button pressed");
 }
