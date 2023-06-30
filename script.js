@@ -1,4 +1,4 @@
-var yesAudio = new Audio('Audio/yes.m4a');
+var yesAudio = new Audio('Audio/yes.mp3');
 var noAudio = new Audio('Audio/no.m4a');
 
 function yesFunction() {
