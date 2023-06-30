@@ -9,7 +9,7 @@ body {
 .btn {
     width: 100%;
     height: 50vh;
-    font-size: 5vw; /* responsive font size */
+    font-size: 10vw; /* responsive font size */
     border: none;
     position: relative;
     transition: top ease 0.2s;
